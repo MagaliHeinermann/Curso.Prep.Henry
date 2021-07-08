@@ -1,0 +1,9 @@
+Variables: Es un codigo que se usa para guardar el valor que le demos y luego usarlo con el nombre que le asignemos.
+
+Strings: Son bloques de texto que se usan como valor de las variables, siempre se encierran entre comillas.
+
+Funciones: Son objetos invocables  que cumplen una orden, se les peude agregar argumentos para que dicha orden de el resultado deseado y podemos usar el return para que nos de una respuesta en especifico.
+
+Declaraciones IF: Se usan para un control de flujo y poner una condicion para que la funcion nos de una u otra respuesta.
+
+Valores booleans: Son valores que tienen dos opciones, verdadero o falso, activar o desactivar.
