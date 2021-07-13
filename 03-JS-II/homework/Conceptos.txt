@@ -1,0 +1,8 @@
+For: For o bucles for tiene un concepto similar a IF. Evalua las variables hasta que devuelven lo que buscamos o despues de cierto tiempo.
+
+&&: El operador "y" (And) evalua ambas expresiones y respondera "true" solo si ambas son verdaderas, de lo contrario devolvera "false".
+
+||: El operador "o" (Or) evalua ambas expresiones y responde "true" si una o ambas son verdaderas, si ambas son falsas responde "false".
+
+!: El operador "not" (No) devuelve el valor booleano opuesto a lo que le pasa. Si normalmente debe devolver "true" con el operador "not" devolvera "false".
+
