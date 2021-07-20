@@ -1,0 +1,4 @@
+Arrays: Los arrays se usan para almecenar datos sin importar de que tipo sean. son faciles de crear, se declara la variable y se establece []. Alli podemos sgregar
+tantas cadenas, numeros o booleanos como querramos pero siempre separados por comas.
+Con .length podemos contar cuantos datos tiene un array. Cada elemento dentro de un array tiene una posicion numerica segun su ubicacion en la matriz ([]), siempre
+comienza en 0.
